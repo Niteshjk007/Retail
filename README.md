@@ -1,25 +1,31 @@
 # Retail Store Management System
 
-The Retail Store Management System is an Android application designed to streamline retail store operations and provide an online platform for product showcasing. This system aims to enhance inventory management, customer service, and sales strategies.
+The Retail Store Management System is a web application developed using HTML, CSS, JavaScript, SCSS, PHP, and MySQL. This system is designed to streamline retail store operations and provide an online platform for product showcasing. It aims to enhance inventory management, customer service, and sales strategies.
 
 ## Features
 
 - Efficient inventory management and product display.
 - Customer ordering from multiple stores.
 - Online payment processing.
-- User-friendly graphical interface.
+- User-friendly web interface.
 
-## System Requirements
+## Technologies Used
 
-- Android Studio (latest version).
-- Stable internet connection.
-- Proficiency in Java programming.
+- HTML
+- CSS (SCSS)
+- JavaScript
+- PHP
+- MySQL
+- XAMPP Server
+- phpMyAdmin
 
-## Installation
+## Installation and Setup
 
 1. Clone this repository to your local machine.
-2. Open the project in Android Studio.
-3. Build and run the application on an Android emulator or device.
+2. Set up XAMPP server and phpMyAdmin.
+3. Import the database schema provided in the project.
+4. Place the project files in the appropriate directory (htdocs for XAMPP).
+5. Access the application through a web browser.
 
 ## Usage
 
@@ -47,8 +53,8 @@ Contributions to the Retail Store Management System project are welcome. Fork th
 
 ## Contact
 
-For support or inquiries, contact Nitesh JK at niteshjk16@gmail.com.
+For support or inquiries, contact [Nitesh JK] at [niteshjk16@gmail.com].
 
 ---
 
-Developed by Nitesh JK
+Developed by [Nitesh JK]
